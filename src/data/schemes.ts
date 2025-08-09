@@ -191,5 +191,55 @@ export const schemes: Scheme[] = [
     benefits: "Free skill training with certification and job placement assistance",
     applicationLink: "https://pmkvyofficial.org/",
     states: statesAndUTs
+  },
+  {
+    id: "mgnrega",
+    name: "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)",
+    description: "Rural employment scheme providing guaranteed wage employment",
+    category: "Employment",
+    eligibility: "Rural households willing to do unskilled manual work",
+    benefits: "100 days guaranteed work per household per year with minimum wages",
+    applicationLink: "https://nrega.nic.in/",
+    states: statesAndUTs
+  },
+  {
+    id: "national-solar-mission",
+    name: "National Solar Mission",
+    description: "Renewable energy adoption program promoting solar power",
+    category: "Housing",
+    eligibility: "All citizens, residential and commercial establishments",
+    benefits: "Subsidy for solar panel installation, net metering benefits",
+    applicationLink: "https://mnre.gov.in/",
+    states: statesAndUTs
+  },
+  {
+    id: "khelo-india",
+    name: "Khelo India Scheme",
+    description: "Sports development program to promote sports culture and identify talent",
+    category: "Education",
+    eligibility: "Youth athletes aged 8-18 years with sporting talent",
+    benefits: "Training facilities, scholarships, coaching, sports equipment",
+    applicationLink: "https://kheloindia.gov.in/",
+    states: statesAndUTs
+  },
+  {
+    id: "nep-schemes",
+    name: "National Education Policy Implementation Schemes",
+    description: "Education reform initiatives under NEP 2020",
+    category: "Education",
+    eligibility: "Students, teachers, educational institutions",
+    benefits: "Scholarships, infrastructure development, teacher training, digital education",
+    applicationLink: "https://education.gov.in/",
+    states: statesAndUTs
+  },
+  {
+    id: "rkvy",
+    name: "Rashtriya Krishi Vikas Yojana (RKVY)",
+    description: "Agriculture development scheme to boost agricultural productivity",
+    category: "Agriculture",
+    eligibility: "Farmers, agricultural cooperatives, self-help groups",
+    benefits: "Subsidies for farm equipment, training, irrigation, crop development",
+    applicationLink: "https://rkvy.nic.in/",
+    states: statesAndUTs
   }
 ];
