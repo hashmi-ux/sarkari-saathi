@@ -47,7 +47,7 @@ export const YojanaSathi = () => {
       {/* Header */}
       <header className="bg-gradient-to-r from-primary via-accent to-secondary text-white py-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">🇮🇳 Yojana Sathi – Government Schemes Finder</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Yojana Sathi – Government Schemes Finder</h1>
           <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto">
             Easily find central & state government schemes with eligibility, benefits, and application links in one click.
           </p>
